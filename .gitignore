@@ -1,0 +1,7 @@
+# Chronicle's local data directory — generated per project, never committed
+# (same idea as not committing .git/). The database and patch files are
+# local-first state, not source code.
+.chronicle/
+
+# Compiled binaries
+/chronicle
